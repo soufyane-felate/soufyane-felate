@@ -31,25 +31,18 @@
   </ul>
 </div>
 <br>
+<!--Intro start-->
 <p>
   <img align="right" src="https://github.com/soufyane-felate/soufyane-felate/blob/main/animation_500_kxa883sd.gif" alt="Soufyane Felate's Animation" />
 </p>
 
-![Animation](https://github.com/user-attachments/assets/64d82184-cb36-4c2f-bcf8-306f8b1b1f7b)
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **java/XML, flutter/Dart, Sqlite,Kotlin**
-
-
-
-- 💬 Ask me about **java, flutter, Sqlite, Dart, Xml,Kotlin,**
-
-- 📫My email **soufyanfellat03@gmail.com**
+- 🔭 I’m currently working on **Java/XML, Flutter/Dart, SQLite, Kotlin**  
+- 💬 Ask me about **Java, Flutter, SQLite, Dart, XML, Kotlin**  
+- 📫 My email: **soufyanfellat03@gmail.com**
 
 <!--Intro end-->
-
 </br>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
