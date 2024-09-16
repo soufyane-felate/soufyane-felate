@@ -98,7 +98,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/felate-soufyane-3052282a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felate-soufyane-3052282a7/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/soufyan.mohamed.923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/soufyan.mohamed.923" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/felate_soufyane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/felate_soufyane/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/felate_soufyane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/felate_soufyane/" height="30" width="40" /></a>
 
 
   
@@ -119,4 +119,4 @@
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/soufyane-felate)
 
-Last Edited on: 29/4/2023
+Last Edited on: 16/09/2024
