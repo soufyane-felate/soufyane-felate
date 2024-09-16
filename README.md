@@ -5,9 +5,10 @@
 <!--h1 without bottom border-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaykum+Warahmatullah..&hearts;++;Mobile+Application+Developer,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+Learn+New+Things..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaykum+Warahmatullah..&hearts;++I’m+%40soufyane-felate,;👨‍💻+Mobile+Application+Developer,;🔍+Active+Learner/Researcher,;💡+Always+Learning+New+Things..<3">
   </a>
 </p>
+
 
 <div id="user-content-toc">
   <ul align="center">
