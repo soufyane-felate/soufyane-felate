@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **java, flutter, Sqlite, Dart, Xml,Kotlin,**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫My email **soufyanfellat03@gmail.com**
 
 <!--Intro end-->
 
@@ -81,7 +81,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,flutter,dart,mysql,postman,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,java,flutter,dart,mysql,postman,vscode,android,kotlin,xml" />
   </a>
 </p>
 
@@ -96,8 +96,8 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/felate-soufyane-3052282a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felate-soufyane-3052282a7/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/soufyan.mohamed.923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/soufyan.mohamed.923" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felate-soufyane-3052282a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felate-soufyane-3052282a7/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/soufyan.mohamed.923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/soufyan.mohamed.923" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/felate_soufyane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/felate_soufyane/" height="30" width="40" /></a>
 
 
