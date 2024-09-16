@@ -11,10 +11,7 @@
 
 
 <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 <!--h2 without bottom border-->
@@ -26,7 +23,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **java, flutter, Sqlite, Dart, Xml,Kotlin**
+- 🔭 I’m currently working on **java/XML, flutter/Dart, Sqlite,Kotlin**
 
 
 
