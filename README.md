@@ -41,7 +41,7 @@
 </p>
 </p>
 
-- 🔭 I’m currently working on **Java/XML, Flutter/Dart, SQLite, Kotlin**    
+- 🔭 I’m currently working on **Java/XML, Flutter/Dart, SQLite, Kotlin , java/angular**    
 - 📫 My email: **soufyanfellat03@gmail.com**
 
 <!--Intro end-->
